@@ -1,6 +1,6 @@
 # Jupyter Notebooks Setup
 It is recommended that VS Code be used to work with this repo. As such you should be comfortable with VS Code and be able
-to install extensions. For this repo you need to install the following extensions:
+to install extensions. You should also be familiar with Docker Desktop and Powershell. For this repo you need to install the following extensions:
 
     - Docker Desktop
     - Python 3
